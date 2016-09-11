@@ -1,11 +1,11 @@
-from exampleManagers import managerInfo
+from eightTeamLeague import managerInfo
 
 #Date Settings
-year = 2016
-week = "Preseason" # Values - "Preseason", 1, 2, 3 ... 13
+year = 2013
+week = "13" # Values - "Preseason", 1, 2, 3 ... 13
 
 firstYear = 2013
-yearsCompleted = ['2013','2014','2015']
+yearsCompleted = []
 
 #League Settings
 numberOfTeams = 10
@@ -20,7 +20,7 @@ numOfQBs = 1
 numOfWRs = 2
 numOfRBs = 2
 numOfTE = 1
-numOfFlex = 1
+numOfFlex = 2
 numOfDef = 1
 numOfIDP = 0
 numOfK = 1

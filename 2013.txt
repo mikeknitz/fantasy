@@ -1,0 +1,247 @@
+Bradley Knitz
+Trent Richardson, Ind RB	
+Oak
+W 21-17	8.7
+Matt Prater, Den K	
+Bal
+W 49-27	7
+Texans D/ST, Hou D/ST	
+@SD
+W 31-28	11
+Daryl Richardson, StL RB	
+Ari
+W 27-24	12.1
+Jamaal Charles, KC RB	
+@Jac
+W 28-2	17.5
+Tony Romo, Dal QB	
+NYG
+W 36-31	16.4
+Jason Witten, Dal TE	
+NYG
+W 36-31	23
+Reggie Wayne, Ind WR	
+Oak
+W 21-17	19.6
+Vincent Jackson, TB WR	
+@NYJ
+L 17-18	19.9
+Reggie Bush, Det RB	
+Min
+W 34-24	29.1
+Michael duran
+Owen Daniels, Bal TE	
+@Den
+L 27-49	21.2
+Drew Brees, NO QB	
+Atl
+W 23-17	21.5
+Matt Forte, Chi RB	
+Cin
+W 24-21	17.1
+Antonio Gates, SD TE	
+Hou
+L 28-31	5.9
+Marques Colston, NO WR	
+Atl
+W 23-17	15.3
+Darren Sproles, Phi RB	
+@Wsh
+W 33-27	14
+Larry Fitzgerald, Ari WR	
+@StL
+L 24-27	24
+Garrett Hartley, FA K	** BYE **	12
+Brandon Marshall, Chi WR	
+Cin
+W 24-21	21.4
+Bears D/ST, Chi D/ST	
+Cin
+W 24-21	9
+Gerard Gonzalez
+DeMarco Murray, Dal RB	
+NYG
+W 36-31	16.5
+Calvin Johnson, Det WR	
+Min
+W 34-24	5.7
+Sebastian Janikowski, Oak K	
+@Ind
+L 17-21	4
+Jermichael Finley, GB TE	
+@SF
+L 28-34	14.1
+Peyton Manning, Den QB	
+Bal
+W 49-27	48.3
+Marshawn Lynch, Sea RB	
+@Car
+W 12-7	6.2
+Bengals D/ST, Cin D/ST	
+@Chi
+L 21-24	2
+Andre Johnson, Hou WR	
+@SD
+W 31-28	21.6
+Montee Ball, Den RB	
+Bal
+W 49-27	2.4
+Frank Gore, SF RB	
+GB
+W 34-28	13.5
+Brady Armes
+Chris Johnson, NYJ RB	
+TB
+W 18-17	7
+Doug Martin, TB RB	
+@NYJ
+L 17-18	11.4
+Ray Rice, Bal RB	
+@Den
+L 27-49	17.1
+Lamar Miller, Mia RB	
+@Cle
+W 23-10	1.5
+49ers D/ST, SF D/ST	
+GB
+W 34-28	5
+Greg Olsen, Car TE	
+Sea
+L 7-12	8.1
+Roddy White, Atl WR	
+@NO
+L 17-23	2.9
+Randy Bullock, Hou K	
+@SD
+W 31-28	7
+Robert Griffin III, Wsh QB	
+Phi
+L 27-33	20.6
+Pierre Garcon, Wsh WR	
+Phi
+L 27-33	9.9
+Kaitlyn Williams
+David Wilson, NYG RB	
+@Dal
+L 31-36	-2.1
+Randall Cobb, GB WR	
+@SF
+L 28-34	21.9
+Kyle Rudolph, Min TE	
+@Det
+L 24-34	3.7
+Blair Walsh, Min K	
+@Det
+L 24-34	8
+Tom Brady, NE QB	
+@Buf
+W 23-21	15.1
+Steelers D/ST, Pit D/ST	
+Ten
+L 9-16	6
+Danny Amendola, NE WR	
+@Buf
+W 23-21	16.4
+Alfred Morris, Wsh RB	
+Phi
+L 27-33	9.9
+Demaryius Thomas, Den WR	
+Bal
+W 49-27	32.6
+C.J. Spiller, Buf RB	
+NE
+L 21-23	6
+Maximilian Ling
+Victor Cruz, NYG WR	
+@Dal
+L 31-36	34.3
+Buccaneers D/ST, TB D/ST	
+@NYJ
+L 17-18	11
+Julio Jones, Atl WR	
+@NO
+L 17-23	15.1
+Steven Jackson, Atl RB	
+@NO
+L 17-23	14.7
+Maurice Jones-Drew, Oak RB	
+@Ind
+L 17-21	4.5
+Greg Zuerlein, StL K	
+Ari
+W 27-24	14
+Matt Ryan, Atl QB	
+@NO
+L 17-23	20.4
+Dwayne Bowe, KC WR	
+@Jac
+W 28-2	5
+LeSean McCoy, Phi RB	
+@Wsh
+W 33-27	26.4
+Jimmy Graham, NO TE	
+Atl
+W 23-17	12.5
+Vincent DiBernardo
+Dez Bryant, Dal WR	
+NYG
+W 36-31	4.2
+Matt Bryant, Atl K	
+@NO
+L 17-23	5
+Seahawks D/ST, Sea D/ST	
+@Car
+W 12-7	12
+Vernon Davis, SF TE	
+GB
+W 34-28	24.8
+Ahmad Bradshaw, Ind RB	
+Oak
+W 21-17	3.8
+Adrian Peterson, Min RB	
+@Det
+L 24-34	32.1
+Mike Wallace, Mia WR	
+@Cle
+W 23-10	2
+Aaron Rodgers, GB QB	
+@SF
+L 28-34	25.6
+BenJarvus Green-Ellis, Cin RB	
+@Chi
+L 21-24	9.4
+Eric Decker, NYJ WR	
+TB
+W 18-17	4.2
+Tony DiBernardo
+Torrey Smith, Bal WR	
+@Den
+L 27-49	11.2
+A.J. Green, Cin WR	
+@Chi
+L 21-24	34.7
+Wes Welker, Den WR	
+Bal
+W 49-27	21.2
+Tony Gonzalez, Atl TE	
+@NO
+L 17-23	11.1
+Patriots D/ST, NE D/ST	
+@Buf
+W 23-21	8
+Jordy Nelson, GB WR	
+@SF
+L 28-34	23.5
+Matthew Stafford, Det QB	
+Min
+W 34-24	22
+Stevan Ridley, NE RB	
+@Buf
+W 23-21	2.6
+Arian Foster, Hou RB	
+@SD
+W 31-28	12
+Stephen Gostkowski, NE K	
+@Buf
+W 23-21	12
+# END OF WEEK ONE--------------------------------------------------------------|
