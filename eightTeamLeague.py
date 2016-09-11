@@ -7,57 +7,57 @@
 
 managerInfo = [
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Bradley Knitz',
+        'nickname': 'Brad',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
       },
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Michael duran',
+        'nickname': 'Mike Duran',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
       },
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Gerard Gonzalez',
+        'nickname': 'Ed',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
       },
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Brady Armes',
+        'nickname': 'Brady',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
       },
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Kaitlyn Williams',
+        'nickname': 'Kaitlyn',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
       },
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Maximillian Ling',
+        'nickname': 'Max',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
       },
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Vincent DiBernardo',
+        'nickname': 'Vincent',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
       },
       {
-        'name': ,
-        'nickname': ,
+        'name': 'Tony DiBernardo',
+        'nickname': 'Tony',
         'picture': ,
         'clubHouse': ,
         'lastYearPosition':
